@@ -11,7 +11,7 @@ main:
     url: about
     weight: 20
   - name: Project
-    url: library
+    url: '#library'
     weight: 35
 
 
