@@ -11,10 +11,6 @@ image:
   preview_only: false
 ---
 
-{{% callout note %}}
-Every story I create, creates me. I write to create myself. -– Octavia E. Butler
-{{% /callout %}}
-
 This page's material contains almost 2,000 sets of high-quality General and Further Mathematics questions. We divided the questions into two categories for each topic: 
 
 1. Multiple choice questions and
@@ -65,3 +61,7 @@ We hope you take advantage of these free resources!
 - Trigonometric Rations and Rules
 - Variation
 
+
+{{% callout note %}}
+The only way to learn mathematics is to do mathematics. –Paul Halmos
+{{% /callout %}}
