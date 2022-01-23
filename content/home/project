@@ -25,14 +25,14 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: Resources
+  - name: Question Bank
     tag: '*'
-  - name: Books
-    tag: Books   
-  - name: Writing
-    tag: Writing
-  - name: Research Data
-    tag: Research Data
+  - name: Basic Math
+    tag: Basic Math
+  - name: General Math
+    tag: General Math
+  - name: Further Math
+    tag: Further Math
 
 
 design:
