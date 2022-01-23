@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 35
 
-title: Library
-subtitle: The transformative power of reading...
+title: The DI Project
+subtitle: Question bank for high school students and teachers!
 
 content:
   # Page type to display. E.g. project.
