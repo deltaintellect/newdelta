@@ -1,9 +1,0 @@
-Name,Type,Scale,Coded as
-GRE score,Continuous,0 to 340,gre
-TOEFL score,Continuous,0 to 120,toefl
-University ranking,Continuous,1 to 5,uranking
-Statement of purpose,Continuous,0 to 5,sop
-Letters of recommendation,Continuous,0 to 5,lor
-Undergraduate GPA,Continuous,0 to 10,cgpa
-Research experience,Discrete,0 or 1,research
-Chance of admission,Continuous,0 to 1,Admit_chance
