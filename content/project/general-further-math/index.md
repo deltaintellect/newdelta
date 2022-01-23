@@ -3,6 +3,7 @@ title: Topics in General & Further Math
 date: 2021-11-08T19:55:54.708Z
 draft: false
 featured: false
+summary: This page's material contains almost 2,000 sets of high-quality General and Further Mathematics questions...
 tags:
   - General and Further Math
 image:
@@ -11,7 +12,7 @@ image:
   preview_only: false
 ---
 
-This page's material contains almost 2,000 sets of high-quality General and Further Mathematics questions. <!-more-> We divided the questions into two categories for each topic: 
+This page's material contains almost 2,000 sets of high-quality General and Further Mathematics questions. We divided the questions into two categories for each topic: 
 
 1. Multiple choice questions and
 2. Subjective questions or essay type of questions.
