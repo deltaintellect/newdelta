@@ -17,5 +17,5 @@ social:
       header: true
 email: ""
 superuser: true
-highlight_name: false
+highlight_name: true
 ---
