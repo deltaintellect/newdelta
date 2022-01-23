@@ -1,10 +1,10 @@
 ---
-title: Life changing books!
+title: Topics in General & Further Math
 date: 2021-11-08T19:55:54.708Z
 draft: false
 featured: false
 tags:
-  - Books
+  - General and Further Math
 image:
   filename: featured.jpg
   focal_point: Smart

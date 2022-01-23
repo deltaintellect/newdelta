@@ -6,12 +6,12 @@ light = true
 
 
 # Primary
-primary = "#9E1B32"
+primary = "#11054E"
 
 # Menu
 menu_primary = "#fff"
 menu_text = "#34495e"
-menu_text_active = "#9E1B32"
+menu_text_active = "#11054E"
 menu_title = "#2b2b2b"
 
 # Home sections
