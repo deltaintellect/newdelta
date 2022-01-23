@@ -6,12 +6,12 @@ social:
     display:
       header: true
   - icon: fa-facebook
-    icon_pack: fa-brand
+    icon_pack: fab
     link: https://www.facebook.com/deltaintellect
     display:
       header: true
   - icon: fa-whatsapp
-    icon_pack: fa-brand
+    icon_pack: fab
     link: https://wa.me/12058879614
     display:
       header: true
