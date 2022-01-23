@@ -5,7 +5,7 @@ social:
     link: mailto:deltaintellect2019@gmail.com
     display:
       header: true
-  - icon: fa-facebook
+  - icon: fa-facebook-f
     icon_pack: fab
     link: https://www.facebook.com/deltaintellect
     display:
