@@ -2,31 +2,20 @@
 social:
   - icon: envelope-open-text
     icon_pack: fas
-    link: mailto:bklugu@crimson.ua.edu
+    link: mailto:deltaintellect2019@gmail.com
     display:
       header: true
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=8Fn6yF4AAAAJ&hl=en
+  - icon: fa-facebook
+    icon_pack: fa
+    link: https://www.facebook.com/deltaintellect
     display:
       header: true
-  - icon: researchgate
-    icon_pack: ai
-    link: https://www.researchgate.net/profile/Benjamin-Lugu-2
-    display:
-      header: true
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/luguben
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/benjamin-lugu-065771140/
-  - icon: cv
-    icon_pack: ai
-    link: uploads/academic cv_luguben.pdf
+  - icon: fa-whatsapp
+    icon_pack: fa
+    link: https://wa.me/12058879614
     display:
       header: true
 email: ""
-superuser: false
+superuser: true
 highlight_name: false
 ---
