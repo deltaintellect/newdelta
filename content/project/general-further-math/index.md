@@ -15,7 +15,7 @@ image:
 Every story I create, creates me. I write to create myself. -– Octavia E. Butler
 {{% /callout %}}
 
-The content on this page has over 2,000 sets of well high quality questions covering the topics below on General and Further Mathematics. For each topic, we have grouped the questions in two ways:
+The content on this page has over 2,000 sets of high quality questions covering the underlisted topics on General and Further Mathematics. For each topic, we have grouped the questions in two ways:
 1. Multiple choice questions and
 2. Subjective questions or essay type of questions.
 
