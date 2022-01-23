@@ -10,7 +10,7 @@ social:
     link: https://www.facebook.com/deltaintellect
     display:
       header: true
-  - icon: fa-whatsapp
+  - icon: whatsapp
     icon_pack: fab
     link: https://wa.me/12058879614
     display:
