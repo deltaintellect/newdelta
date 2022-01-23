@@ -1,10 +1,10 @@
 ---
-title: Research data
+title: Basic
 date: 2021-11-08T19:55:54.708Z
 draft: false
 featured: false
 tags:
-  - Research Data
+  - Basic Math
 image:
   filename: featured.jpg
   focal_point: Smart
@@ -12,7 +12,8 @@ image:
 ---
 
 {{% callout note %}}
-Torture the data, and it will confess to anything.-— Ronald Coase
+Without mathematics, there’s nothing you can do. Everything around you is mathematics. Everything around you is numbers.
+— Shakuntala Devi
 {{% /callout %}}
 
 updated soon...
