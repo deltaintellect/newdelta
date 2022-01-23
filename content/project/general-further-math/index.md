@@ -15,11 +15,14 @@ image:
 Every story I create, creates me. I write to create myself. -– Octavia E. Butler
 {{% /callout %}}
 
-The content on this page has over 2,000 sets of high quality questions on General and Further Mathematics. For each topic, we have grouped the questions in two ways:
+This page's material contains almost 2,000 sets of high-quality General and Further Mathematics questions. We divided the questions into two categories for each topic: 
+
 1. Multiple choice questions and
 2. Subjective questions or essay type of questions.
 
-We hope you will make good use of these resources!
+To download a file, please click on your preferred topic. You will need a PDF readable application on your device to read it out.
+
+We hope you take advantage of these free resources! 
 
 - Algebraic Expressions
 - Application of Differentiation
