@@ -1,6 +1,4 @@
 ---
-title: 
-role: 
 social:
   - icon: envelope-open-text
     icon_pack: fas
@@ -28,10 +26,7 @@ social:
     link: uploads/academic cv_luguben.pdf
     display:
       header: true
-organizations:
-  - name: The University of Alabama
-    url: https://www.ua.edu/
 email: ""
-superuser: true
-highlight_name: true
+superuser: false
+highlight_name: false
 ---
