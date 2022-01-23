@@ -10,7 +10,7 @@ headless: true
 weight: 35
 
 title: The DI Project
-subtitle: Question bank for high school students and teachers!
+subtitle: Math for digital devices!
 
 content:
   # Page type to display. E.g. project.
