@@ -10,9 +10,7 @@ main:
   - name: About
     url: about
     weight: 20
-  - name: Project
-    url: '#library'
-    weight: 35
+
 
 
 # Link to a PDF of your resume/CV from the menu.
