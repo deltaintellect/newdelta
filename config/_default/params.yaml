@@ -8,14 +8,14 @@
 theme: mytheme
 day_night: true
 font: ''
-font_size: s
+font_size: XL
 
 # SEO
 
-site_type: Person
+site_type: ''
 local_business_type: ''
-org_name: ''
-description: ''
+org_name: delta intellect 
+description: Math on digital device!
 twitter: ''
 
 # Contact (edit or remove options as required)
