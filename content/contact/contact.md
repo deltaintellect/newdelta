@@ -4,6 +4,9 @@ headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
 
+title: Contact
+subtitle:
+
 content:
   # Automatically link email and phone or display as text?
   autolink: true
@@ -18,4 +21,4 @@ content:
       captcha: true
 ---
 
-Good to see here! Please send us a message using the form below and we'll revert within a few hours. Thanks!!
+Good to see here! Please send us a message through any of the mediums below and we'll revert as soon as possible. Thanks!!
