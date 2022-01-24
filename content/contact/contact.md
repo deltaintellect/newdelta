@@ -17,3 +17,5 @@ content:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true
 ---
+
+Good to see here! Please send us a message using the form below and we'll revert within a few hours. Thanks!!
