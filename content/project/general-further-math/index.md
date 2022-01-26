@@ -47,7 +47,8 @@ We hope you take advantage of these free resources!
 - [Permutation and Combination](https://drive.google.com/uc?export=download&id=1VQkRsEahoMByblQXOsDiV2TFdJsyWv9z)
 - [Plane Geometry](https://drive.google.com/uc?export=download&id=1S-baB9S5HPM8pJZgal0ns8Qa5KyyjVDk)
 - [Polynomial Functions](https://drive.google.com/uc?export=download&id=14lnOgW6wUVgK8mkB_dcNItS3DBU4fTRr)
-- [Probability](https://drive.google.com/uc?export=download&id=1SG44yAsuAlk8Qs8vOqh-PeWHLTSbdoo0)
+- [Probability (Core)](https://drive.google.com/uc?export=download&id=1SG44yAsuAlk8Qs8vOqh-PeWHLTSbdoo0)
+- [Probability](https://drive.google.com/uc?export=download&id=1IDdG17ssSdb-_eHmttWwEli3j8NxnuOJ)
 - [Quadraic Functions and Graphs](https://drive.google.com/uc?export=download&id=1JxkMEIY5iEH56-KMWIIlv9vXTR5keyu1)
 - [Ratio and Rates](https://drive.google.com/uc?export=download&id=1SXZjzxTzRQpDmP_Bp92mCgL0A1ILiBXb)
 - [Rational Functions](https://drive.google.com/uc?export=download&id=1Vzm8G0O3Sxr15a60Li3KKphhaWmks7fG)
@@ -57,12 +58,16 @@ We hope you take advantage of these free resources!
 - [Sequence and Series](https://drive.google.com/uc?export=download&id=1J3zONLp80mQOayL5bAL-ms73dx1i6h7W)
 - [Sets and Operations on Sets](https://drive.google.com/uc?export=download&id=1HDb5xe2pvWPGPDzKWK2FkOxRzxTaWJOZ)
 - [Simultaneous Linear Equations](https://drive.google.com/uc?export=download&id=1Hgi-EyafZvuw9FVwq7f6wh52zyUYMlmI)
+- [Statistics (Core)](https://drive.google.com/uc?export=download&id=1olefq67SOF8QIsgpqoQzUepGXMLUxyq0)
+- [Statistics](https://drive.google.com/uc?export=download&id=1J_YQ3007niBDliAiUE_fzDl7z5ZFvSyy)
 - [Spearman's Ranks Correlation](https://drive.google.com/uc?export=download&id=1Vc05E415s3pxmw-Hyfg1sCF0CCmFUgqV)
 - [Surds](https://drive.google.com/uc?export=download&id=1AAJwv5SI46xlZq0mVgV7EGCSXpPT92n9)
 - [Trigonometry Functions (Equation)](https://drive.google.com/uc?export=download&id=1Tab7vbLxfS3I6PGvMdK9UK8OggXuhHQh)
 - [Trigonometric Rations and Rules](https://drive.google.com/uc?export=download&id=1U7KCBf45KrTedKQeV3IcfdWwu1TKsJuu)
+- [Trigonometry(Core)](https://drive.google.com/uc?export=download&id=1hDFI4y-mWkVwaNf3vvag5qKB5-zVDNf1)
 - [Variation](https://drive.google.com/uc?export=download&id=1Hzi_NrTub1v-urmGEzpND2MUcur2OHhv)
-
+- [Vectors](https://drive.google.com/uc?export=download&id=1HEHFDFnHprRizrWesuzzOikXtfsa1-Iy)
+- [Vectors and Bearing (Core)](https://drive.google.com/uc?export=download&id=1jAjF61i3aaT2xSV0QHwOQaWRQo0mOa3E)
 Good Luck!
 
 {{% callout note %}}
