@@ -68,6 +68,7 @@ We hope you take advantage of these free resources!
 - [Variation](https://drive.google.com/uc?export=download&id=1Hzi_NrTub1v-urmGEzpND2MUcur2OHhv)
 - [Vectors](https://drive.google.com/uc?export=download&id=1HEHFDFnHprRizrWesuzzOikXtfsa1-Iy)
 - [Vectors and Bearing (Core)](https://drive.google.com/uc?export=download&id=1jAjF61i3aaT2xSV0QHwOQaWRQo0mOa3E)
+
 Good Luck!
 
 {{% callout note %}}
