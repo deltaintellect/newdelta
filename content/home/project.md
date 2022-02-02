@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 35
 
-title: The DI Project
+title: The di Project
 subtitle: Math for digital devices!
 
 content:
