@@ -7,11 +7,6 @@ headless: true  # This file represents a page section.
 title: Welcome!
 subtitle:
 
-image:
-  filename: featured.jpg
-  focal_point: Smart
-  preview_only: false
-
 design:
   columns: '1'
 ---
