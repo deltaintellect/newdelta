@@ -10,7 +10,7 @@ headless: true
 weight: 35
 
 title: The di Project
-subtitle: Math for digital devices!
+subtitle: Creating math quizes for high school students!
 
 content:
   # Page type to display. E.g. project.
@@ -25,7 +25,7 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: Question Bank
+  - name: Quiz Bank
     tag: '*'
   - name: Basic Math
     tag: Basic Math
