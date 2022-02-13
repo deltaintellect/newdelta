@@ -1,8 +1,8 @@
 ---
-title: Randomized Basic Math Questions
+title: Basic math quizzes
 date: 2021-11-08T19:55:54.708Z
 draft: false
-summary: Need to improve your basic math skills? We got you covered with over 200 set of quizzes 
+summary: Browse our 200 plus sets of quizzes on basic math covering wide range of topics...
 featured: false
 tags:
   - Basic Math
@@ -25,7 +25,6 @@ A sample of MCQ is shown below.
 
 Please click on your preferred quiz number to download it.
 
-{{< gdocs src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQTXigpgXEoD9OmOGhO6ewnZizxLY7CvJeHXmjHLEQVWbfaZotdSZwAXCJxI9ShaCcJpZYW-c6aeUYY/pubhtml" >}}
+{{< gdocs src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQTXigpgXEoD9OmOGhO6ewnZizxLY7CvJeHXmjHLEQVWbfaZotdSZwAXCJxI9ShaCcJpZYW-c6aeUYY/pubhtml?widget=true&amp;headers=false" >}}
 
 Good Luck!
-
