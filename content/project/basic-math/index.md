@@ -12,12 +12,7 @@ image:
   preview_only: false
 ---
 
-{{% callout note %}}
-Without mathematics, there’s nothing you can do. Everything around you is mathematics. Everything around you is numbers.
-— Shakuntala Devi
-{{% /callout %}}
-
-Need to improve your basic math skills? We've got you covered with over 200 sets of quizzes covering a wide range of basic math topics. Our quizzes spans multiple choice questions and essay type of questions for daily practice. Each multiple choice quiz has a minimum of 2 questions and maximum of 8 questions.
+Need to improve your basic math skills? We've got you covered with over 200 sets of quizzes covering a wide range of basic math topics. Our quizzes spans multiple choice questions (MCQ) and essay type of questions for daily practice. Each multiple choice quiz has a minimum of 2 questions and a maximum of 8 questions.
 
 A sample of MCQ is shown below.
 
@@ -26,5 +21,12 @@ A sample of MCQ is shown below.
 Please click on your preferred quiz number to download it.
 
 {{< gdocs src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQTXigpgXEoD9OmOGhO6ewnZizxLY7CvJeHXmjHLEQVWbfaZotdSZwAXCJxI9ShaCcJpZYW-c6aeUYY/pubhtml?widget=true&amp;headers=false" >}}
+
+
+
+{{% callout note %}}
+Please check back for the updated contents.
+{{% /callout %}}
+
 
 Good Luck!
