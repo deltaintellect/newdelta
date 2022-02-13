@@ -8,14 +8,14 @@
 theme: mytheme
 day_night: true
 font: ''
-font_size: XL
+font_size: L
 
 # SEO
 
 site_type: ''
 local_business_type: ''
 org_name: delta intellect
-description: ''
+description: We create high quality math quizzes for high school students and teachers in West African!
 twitter: ''
 
 # Contact (edit or remove options as required)
