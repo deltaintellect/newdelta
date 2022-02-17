@@ -10,7 +10,7 @@ headless: true
 weight: 35
 
 title: The di Project
-subtitle: Creating math quizes for high school students!
+subtitle: Creating math quizzes, tests and exam questions for high school students and teachers!
 
 content:
   # Page type to display. E.g. project.
@@ -25,12 +25,14 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: Quiz Bank
+  - name: Test Bank
     tag: '*'
   - name: Basic Math
     tag: Basic Math
-  - name: General & Further Math
-    tag: General and Further Math
+  - name: General Math
+    tag: General Math
+  - name: Further Math
+    tag: Further Math
 
 
 
