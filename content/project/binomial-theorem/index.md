@@ -47,14 +47,8 @@ $$.
 The above expression can be rewritten as;
 
 $$
-(x+y)^{n}=\sum_{k=0}^{n}\left(\begin{array}{l}
-n \\
-k
-\end{array}\right) x^{n-k} y^{k}=\sum_{k=0}^{n}\left(\begin{array}{l}
-n \\
-k
-\end{array}\right) x^{k} y^{n-k}
-$$.
+(x+y)^{n}=\sum_{k=0}^{n} \begin{pmatrix} n \\ k \end{pmatrix} x^{n-k} y^{k}=\sum_{k=0}^{n} \begin{pmatrix}  n \\ k \end{pmatrix} x^{k} y^{n-k}.
+$$
 
 **Guide:**
 1. Review Binomial Theorem in your textbook.
