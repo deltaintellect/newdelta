@@ -15,10 +15,10 @@ Consider the following binomial expressions,
 
 ![eq01](01.png)
 
-Now, the expansion becomes complex when we want to find, for example, $(x + y)^15$. 
+Now, the expansion becomes complex when we want to find, for example, $(x + y)^{15}$. 
 So, we need a better alternative. This is where the binomial theorem comes in. 
 
-That is, binomial theorem is a mathematical formula for expanding the binomial expression of the form $(x + y)^n$, for positive values of $n$. The formula is given by
+That is, a binomial theorem is a mathematical formula for expanding the binomial expression of the form $(x + y)^n$, for positive values of $n$. The formula is given by
 
 ![eq02](02.png)
 
