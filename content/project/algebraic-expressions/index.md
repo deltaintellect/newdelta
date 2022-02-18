@@ -3,7 +3,7 @@ title: Algebraic Expressions
 date: 2021-11-08T19:55:54.708Z
 draft: false
 featured: false
-summary: when you combine words using operations like addition, subtraction, multiplication, division, and so on, you have created an algebraic or variable expression
+summary: 3x, 2 - x, 5b - 3a are examples of algebraic or variable expressions.
 tags:
   - General Math
 image:
