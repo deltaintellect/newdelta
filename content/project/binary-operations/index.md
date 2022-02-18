@@ -3,7 +3,7 @@ title: Binary Operations
 date: 2021-11-08T19:55:54.708Z
 draft: false
 featured: false
-summary: 3x, 2 - x, 5b - 3a are examples of algebraic or variable expressions.
+summary: A binary operation is a mathematical rule used for combining two elements to produce another element...
 tags:
   - General Math
 image:
@@ -15,9 +15,10 @@ image:
 A **binary operation** is a mathematical rule used for combining two elements to produce another element. For example, $x \otimes y = z$ is a binary operation that combines $x$ and $y$ with the operator $\otimes$ to produce $z$. 
 
 **Guide:**
-1. Review the Binary Operations in your textbook.
+1. Review Binary Operations in your textbook.
 2. Download the file below and practice problem solving.
 
+_Don't forget step 1_
 
 | File                       |  Scope                       |             |
 | -------------------------- |------------------------------| ----------- |
