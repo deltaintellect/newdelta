@@ -12,7 +12,7 @@ image:
   preview_only: false
 ---
 
-Probability is the chance or the likelihood that an event will occur. So many events around us happen by chance. For example, weather forecasting, football, voting, lottery, fliiping a coin or die etc. Can you name some examples of probaility in real life?
+Probability is the chance or the likelihood that an event will occur. So many events around us happen by chance. For example, weather forecasting, football, voting, lottery, flipping a coin or die etc. Can you name some examples of probaility in real life?
 
 **Guide:**
 1. Review the concept of Probability in your textbook.
