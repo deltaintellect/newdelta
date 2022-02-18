@@ -18,6 +18,7 @@ image:
 1. Review Algebraic Expressions in your textbook.
 2. Download the file below and practice problem solving.
 
+_Don't forget step 1_
 
 | File                       |  Scope                       |             |
 | -------------------------- |------------------------------| ----------- |
