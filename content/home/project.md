@@ -10,7 +10,7 @@ headless: true
 weight: 35
 
 title: The di Project
-subtitle: Creating math quizzes, tests and exam questions for high school students and teachers!
+subtitle: Creating open source math quizzes, tests and exam questions for high school students and teachers!
 
 content:
   # Page type to display. E.g. project.

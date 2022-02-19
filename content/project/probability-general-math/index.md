@@ -3,7 +3,7 @@ title: Probability
 date: 2021-11-08T19:55:54.708Z
 draft: false
 featured: false
-summary: What is the probability of getting a head when a fair coin is tossed once?
+summary: A die is rolled once. What is the probability that a number less than 3 shows up?
 tags:
   - General Math
 image:
@@ -11,8 +11,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-
-Probability is the chance or the likelihood that an event will occur. So many events around us happen by chance. For example, weather forecasting, football, voting, lottery, flipping a coin or die etc. Can you name some examples of probability in real life?
+**Sample question:** There are 40 identical marbles in a box. 18 of the marbles are blue, 14 red and 8 green. What is the probability that a marble selected at random is either blue or green?
 
 **Guide:**
 1. Review the concept of Probability in your textbook.

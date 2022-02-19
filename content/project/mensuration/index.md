@@ -23,6 +23,6 @@ _Don't forget to do step 1_
 
 | File                       |  Scope                       |             |
 | -------------------------- |------------------------------| ----------- |
-| Indices and Logarithms     | Objective and Subjective Tests    | [Download](https://drive.google.com/uc?export=download&id=13gtyMr7RpujU2U1vwm_9F_L64AxNQhtm)       |
+| Mensuration     | Objective and Subjective Tests    | [Download](https://drive.google.com/uc?export=download&id=13gtyMr7RpujU2U1vwm_9F_L64AxNQhtm)       |
 
 
