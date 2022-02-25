@@ -6,6 +6,7 @@ featured: false
 summary: The length of a side of an equilateral triangle is 10cm. Find the height of the triangle.
 tags:
   - General Math
+  - Further Math
 image:
   filename: featured.jpg
   focal_point: Smart
