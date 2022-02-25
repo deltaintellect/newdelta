@@ -7,6 +7,7 @@ summary: Two dice are thrown once. What is the probability that the same number 
 
 tags:
   - Further Math
+  - General Math
 image:
   filename: featured.jpg
   focal_point: Smart
@@ -21,8 +22,11 @@ image:
 
 _Don't forget to do step 1_
 
-| File                       |  Scope                       |             |
-| -------------------------- |------------------------------| ----------- |
-| Probability     | Objective and Subjective Tests    | [Download](https://drive.google.com/uc?export=download&id=1IDdG17ssSdb-_eHmttWwEli3j8NxnuOJ)       |
+| File                       |  Scope                           | Subject               |           |
+| -------------------------- |----------------------------------|-----------------------|-----------|
+| Probability        | Objective and Subjective Tests   | General Math          | [Download](https://drive.google.com/uc?export=download&id=1SG44yAsuAlk8Qs8vOqh-PeWHLTSbdoo0) |
+| Probability     | Objective and Subjective Tests   | Further Math          | [Download](https://drive.google.com/uc?export=download&id=1IDdG17ssSdb-_eHmttWwEli3j8NxnuOJ) |
+
+
 
 

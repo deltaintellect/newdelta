@@ -15,7 +15,7 @@ image:
 **Sample question:**  Evaluate $\int_{0}^{2} \frac{x+3}{\sqrt{x^{2}+6 x+9}} d x$.
 
 **Guide:**
-1. Review the concept of Integration in your textbook.
+1. Review the concept of integration and its application in your textbook.
 2. Download the file below and practice problem solving.
 
 _Don't forget to do step 1_
@@ -23,5 +23,6 @@ _Don't forget to do step 1_
 | File                       |  Scope                       |             |
 | -------------------------- |------------------------------| ----------- |
 | Integration     | Objective and Subjective Tests    | [Download](https://drive.google.com/uc?export=download&id=1EQ7UCLXEvmACq-fHv54Z68ujFhh9GV2I)       |
+| Application of Integration     | Objective and Subjective Tests    | [Download](https://drive.google.com/uc?export=download&id=1UzQ6CqEgbHl75WtHK1cPkaP_CZkUgAIP)       |
 
 
